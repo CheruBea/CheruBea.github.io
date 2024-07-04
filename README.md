@@ -1,7 +1,3 @@
-@{
-    ViewData["Title"] = "Home Page";
-}
-
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -184,4 +180,3 @@
         <p>&copy; 2024 GitHub Stats. All rights reserved.</p>
     </div>
 </footer>
-</html>
